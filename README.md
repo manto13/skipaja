@@ -1,0 +1,2 @@
+# skipaja
+Safelinkanto
